@@ -40,10 +40,19 @@ h5 {
   background-color: white;
   height: 100%;
   width: 100%;
+  justify-content: center;
 
   padding: 30px;
 }
 a {
   text-decoration: none;
   color: black;
+}
+
+li {
+  list-style-type: none;
+  color: black;
+}
+.main-body {
+  background-color: whitesmoke;
 }
