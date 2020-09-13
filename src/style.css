@@ -1,0 +1,49 @@
+.header {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  margin: auto 0;
+  padding: auto 0;
+}
+
+.navbar-container {
+  display: flex;
+}
+
+h5 {
+  padding-right: 20px;
+}
+
+.home-body {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 150px;
+  padding-left: 100px;
+  font-size: 35px;
+  background-color: whitesmoke;
+}
+
+.home-body-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-container {
+  display: flex;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+
+  padding: 30px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
