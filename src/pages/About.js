@@ -25,16 +25,17 @@ const CardExample = () => {
                 I am a Full-Stack web developer. My curiosity and passion for
                 learning fuels me to persue many interests, hobbies and areas of
                 studies. I am easily inspired and willing to follow my heart's
-                desires wherever they may lead me. I am also a founder of Doulas
-                By The Bay LLC and Blossom Parenting LLC. My background working
-                as a doula has helped me understand how to best support and
-                educate Doulas and new parents and lead an incredible team of
-                birth and postpartum professionals that is passionate about
-                supporting families in our community. My educational videos have
-                been viewed by tens of thousands of families on YouTube,
-                Instagram, Facebook and LinkedIn platforms. I find it very
-                rewarding to learn new skills and work hard to provide superior
-                service in my personal and professional life.
+                desires wherever they may lead me. <br />
+                <br />I am also a founder of Doulas By The Bay LLC and Blossom
+                Parenting LLC. My background working as a doula has helped me
+                understand how to best support and educate Doulas and new
+                parents. Todate I am incredibly honored to be leading Bay Area's
+                most trusted doula agency in the San Francisco Bay Area. <br />
+                <br />
+                My educational videos have been viewed by tens of thousands of
+                families on YouTube, Instagram, Facebook and LinkedIn platforms.
+                I find it very rewarding to learn new skills and work hard to
+                provide superior service in my personal and professional life.
               </MDBCardText>
               <hr />
               <div className="text-center">
