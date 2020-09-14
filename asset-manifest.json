@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/myReactPortfolio/static/css/main.c3b68ec6.chunk.css",
-    "main.js": "/myReactPortfolio/static/js/main.4b4a1b44.chunk.js",
-    "main.js.map": "/myReactPortfolio/static/js/main.4b4a1b44.chunk.js.map",
+    "main.css": "/myReactPortfolio/static/css/main.9352e7b6.chunk.css",
+    "main.js": "/myReactPortfolio/static/js/main.aa01bbcf.chunk.js",
+    "main.js.map": "/myReactPortfolio/static/js/main.aa01bbcf.chunk.js.map",
     "runtime-main.js": "/myReactPortfolio/static/js/runtime-main.e62baad7.js",
     "runtime-main.js.map": "/myReactPortfolio/static/js/runtime-main.e62baad7.js.map",
     "static/css/2.323dcecb.chunk.css": "/myReactPortfolio/static/css/2.323dcecb.chunk.css",
-    "static/js/2.4ae4fa62.chunk.js": "/myReactPortfolio/static/js/2.4ae4fa62.chunk.js",
-    "static/js/2.4ae4fa62.chunk.js.map": "/myReactPortfolio/static/js/2.4ae4fa62.chunk.js.map",
+    "static/js/2.e4538d0e.chunk.js": "/myReactPortfolio/static/js/2.e4538d0e.chunk.js",
+    "static/js/2.e4538d0e.chunk.js.map": "/myReactPortfolio/static/js/2.e4538d0e.chunk.js.map",
     "index.html": "/myReactPortfolio/index.html",
-    "precache-manifest.dd25d3ca708c1dc8db3d39e7e24ae3be.js": "/myReactPortfolio/precache-manifest.dd25d3ca708c1dc8db3d39e7e24ae3be.js",
+    "precache-manifest.e136d7f42eac8356a84d90ebac8c546d.js": "/myReactPortfolio/precache-manifest.e136d7f42eac8356a84d90ebac8c546d.js",
     "service-worker.js": "/myReactPortfolio/service-worker.js",
     "static/css/2.323dcecb.chunk.css.map": "/myReactPortfolio/static/css/2.323dcecb.chunk.css.map",
-    "static/css/main.c3b68ec6.chunk.css.map": "/myReactPortfolio/static/css/main.c3b68ec6.chunk.css.map",
-    "static/js/2.4ae4fa62.chunk.js.LICENSE.txt": "/myReactPortfolio/static/js/2.4ae4fa62.chunk.js.LICENSE.txt",
+    "static/css/main.9352e7b6.chunk.css.map": "/myReactPortfolio/static/css/main.9352e7b6.chunk.css.map",
+    "static/js/2.e4538d0e.chunk.js.LICENSE.txt": "/myReactPortfolio/static/js/2.e4538d0e.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/myReactPortfolio/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/myReactPortfolio/static/media/fa-solid-900.ee09ad75.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.e62baad7.js",
     "static/css/2.323dcecb.chunk.css",
-    "static/js/2.4ae4fa62.chunk.js",
-    "static/css/main.c3b68ec6.chunk.css",
-    "static/js/main.4b4a1b44.chunk.js"
+    "static/js/2.e4538d0e.chunk.js",
+    "static/css/main.9352e7b6.chunk.css",
+    "static/js/main.aa01bbcf.chunk.js"
   ]
 }
