@@ -8,6 +8,7 @@ import {
   MDBBtn,
   MDBInput,
 } from "mdbreact";
+import "../style.css";
 
 const Contact = () => {
   return (
@@ -101,18 +102,36 @@ const Contact = () => {
               <hr className="hr-light my-4" />
               <ul className="list-inline text-center list-unstyled">
                 <li className="list-inline-item">
-                  <a href="#!" className="p-2 fa-lg w-ic">
-                    <MDBIcon fab icon="facebook" />
+                  <a
+                    href="https://github.com/shakymary"
+                    className="p-2 fa-lg w-ic"
+                  >
+                    <MDBIcon className="icons" fab icon="github" />
+                  </a>
+                </li>
+
+                <li className="list-inline-item">
+                  <a
+                    href="https://www.linkedin.com/in/shakila-marando-33432515/"
+                    className="p-2 fa-lg w-ic"
+                  >
+                    <MDBIcon className="icons" fab icon="linkedin-in" />
                   </a>
                 </li>
                 <li className="list-inline-item">
-                  <a href="#!" className="p-2 fa-lg w-ic">
-                    <MDBIcon fab icon="linkedin-in" />
+                  <a
+                    href="https://www.instagram.com/blossomparenting/"
+                    className="p-2 fa-lg w-ic"
+                  >
+                    <MDBIcon className="icons" fab icon="instagram" />
                   </a>
                 </li>
                 <li className="list-inline-item">
-                  <a href="#!" className="p-2 fa-lg w-ic">
-                    <MDBIcon fab icon="instagram" />
+                  <a
+                    href="https://www.facebook.com/shakila.marando"
+                    className="p-2 fa-lg w-ic"
+                  >
+                    <MDBIcon className="icons" fab icon="facebook" />
                   </a>
                 </li>
               </ul>

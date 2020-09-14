@@ -4,8 +4,7 @@ import HomeBody from "./components/HomeBody";
 import Footer from "./components/Footer";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import About from "./pages/About";
-import Skills from "./pages/Skills";
-import Portfolio from "./pages/Portfolio";
+import Work from "./pages/Work";
 import Contact from "./pages/Contact";
 
 function App() {
@@ -18,14 +17,9 @@ function App() {
             <About />
             <Footer />
           </Route>
-          <Route path="/skills">
+          <Route path="/work">
             <Header />
-            <Skills />
-            <Footer />
-          </Route>
-          <Route path="/portfolio">
-            <Header />
-            <Portfolio />
+            <Work />
             <Footer />
           </Route>
           <Route path="/contact">

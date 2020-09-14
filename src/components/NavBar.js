@@ -11,11 +11,8 @@ function NavBar() {
       <Link to="/about">
         <h5>About</h5>
       </Link>
-      <Link to="/skills">
-        <h5>Skills</h5>
-      </Link>
-      <Link to="/porfolio">
-        <h5>Portfolio</h5>
+      <Link to="/work">
+        <h5>Work</h5>
       </Link>
       <Link to="/contact">
         <h5>Contact</h5>
