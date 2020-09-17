@@ -11,28 +11,14 @@ function App() {
   return (
     <Router>
       <div className="App">
+        <Header />
         <Switch>
-          <Route path="/about">
-            <Header />
-            <About />
-            <Footer />
-          </Route>
-          <Route path="/work">
-            <Header />
-            <Work />
-            <Footer />
-          </Route>
-          <Route path="/contact">
-            <Header />
-            <Contact />
-            <Footer />
-          </Route>
-          <Route path="/">
-            <Header />
-            <HomeBody />
-            <Footer />
-          </Route>
+          <Route exact path="/about" component={About} />
+          <Route exact path="/work" component={Work} />
+          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/" component={HomeBody} />
         </Switch>
+        <Footer />
       </div>
     </Router>
   );
