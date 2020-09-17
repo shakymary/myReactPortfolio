@@ -9,7 +9,7 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <div className="App">
         <Header />
         <Switch>
@@ -17,7 +17,6 @@ function App() {
           <Route exact path="/work" component={Work} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/" component={HomeBody} />
-          <Route path="*" component={HomeBody} />
         </Switch>
         <Footer />
       </div>
